@@ -1,0 +1,19 @@
+## ide
+**/.idea
+*.iml
+
+## backend
+**/target
+**/logs
+
+## front
+**/*.lock
+**/logs.home_IS_UNDEFINED
+**/logspayment
+sunbuyer-boot/dist/sunbuyer-bin.zip
+sunbuyer-web/dist.rar
+**/vue.config.js
+
+
+/脚手架与组件开发/my-vue-project/node_modules
+/脚手架与组件开发/my-vue-project/package-lock.json
